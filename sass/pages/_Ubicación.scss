@@ -1,0 +1,11 @@
+body{
+    background-color: $color_body;
+  }
+  .sucursales__titulo {
+    @include title;
+  }
+
+  .sucursales__list{
+    @include list;
+  }
+  

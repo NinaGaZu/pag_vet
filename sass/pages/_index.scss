@@ -1,0 +1,10 @@
+
+body{
+  background-color: $color_body;
+}
+.info__titulo {
+  @include title;
+}
+.info__parrafo{
+  @include list;
+}

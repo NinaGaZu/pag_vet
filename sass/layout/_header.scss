@@ -1,0 +1,15 @@
+.header__titulo{
+  background-color: $color_background;
+  text-align: center;
+  font-family: $font-title;
+  color: $color_font;
+
+}
+.header__nav{
+  text-align: center;
+  color: $color_background;
+
+  &:hover{
+    background-color:$color_foot;
+  }
+}

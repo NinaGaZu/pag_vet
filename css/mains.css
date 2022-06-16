@@ -1,0 +1,92 @@
+@font-face {
+  font-family: 'Lobster', cursive;
+  src: url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+}
+
+@font-face {
+  font-family: 'Indie Flower', cursive;
+  src: url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+}
+
+.foot {
+  text-align: center;
+  background-color: #B9EDF8;
+}
+
+.foot__parrafo {
+  background-color: black;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+.header__titulo {
+  background-color: #B9EDF8;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  color: #0000A1;
+}
+
+.header__nav {
+  text-align: center;
+  color: #B9EDF8;
+}
+
+.header__nav:hover {
+  background-color: white;
+}
+
+body {
+  background-color: #39BAE8;
+}
+
+.servicio__titulo {
+  background-color: #B9EDF8;
+  font-family: "Indie Flower", cursive;
+  color: #0000A1;
+}
+
+.servicio__list {
+  color: #0000A1;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.list__titulo {
+  color: #0000A1;
+}
+
+.list__group {
+  color: #0000A1;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #39BAE8;
+}
+
+.sucursales__titulo {
+  background-color: #B9EDF8;
+  font-family: "Indie Flower", cursive;
+  color: #0000A1;
+}
+
+.sucursales__list {
+  color: #0000A1;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #39BAE8;
+}
+
+.info__titulo {
+  background-color: #B9EDF8;
+  font-family: "Indie Flower", cursive;
+  color: #0000A1;
+}
+
+.info__parrafo {
+  color: #0000A1;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+/*# sourceMappingURL=mains.css.map */

@@ -1,0 +1,20 @@
+body{
+    background-color: $color_body;
+  }
+
+  .servicio__titulo {
+    @include title;
+  }
+
+  .servicio__list{
+    @include list;
+  }
+
+  .list__titulo{
+    color: $color_font;
+}
+
+.list__group{
+    color: $color_font;
+    font-family: $font_3;
+}

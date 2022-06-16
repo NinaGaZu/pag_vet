@@ -1,0 +1,10 @@
+//Mixin//
+@mixin title() {
+    background-color: $color_background;
+    font-family: $font_2;
+    color:$color_font;
+}
+@mixin list() {
+    color:$color_font;
+    font-family: $font_3;
+}
